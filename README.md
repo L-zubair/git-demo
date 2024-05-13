@@ -1,2 +1,2 @@
 # git-demo
-demo class
+demo class.
